@@ -1,0 +1,19 @@
+extraction:
+  cpp:
+    after_prepare: 
+      - python guess.py
+  cobol:
+    after_prepare: 
+      - python guess.py
+  csharp:
+    after_prepare: 
+      - python guess.py
+  java:
+    after_prepare: 
+      - python guess.py
+  javascript:
+    after_prepare: 
+      - python guess.py
+  python:
+    after_prepare: 
+      - python guess.py
